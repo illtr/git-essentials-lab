@@ -9,3 +9,5 @@
 
 ```text
 python3 run.py demo
+
+The demo runs the sample library application and demonstrates its basic library behavior.
